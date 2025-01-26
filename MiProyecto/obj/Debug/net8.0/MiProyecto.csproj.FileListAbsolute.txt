@@ -1,0 +1,15 @@
+/workspaces/first-csharp/MiProyecto/bin/Debug/net8.0/MiProyecto
+/workspaces/first-csharp/MiProyecto/bin/Debug/net8.0/MiProyecto.deps.json
+/workspaces/first-csharp/MiProyecto/bin/Debug/net8.0/MiProyecto.runtimeconfig.json
+/workspaces/first-csharp/MiProyecto/bin/Debug/net8.0/MiProyecto.dll
+/workspaces/first-csharp/MiProyecto/bin/Debug/net8.0/MiProyecto.pdb
+/workspaces/first-csharp/MiProyecto/obj/Debug/net8.0/MiProyecto.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/first-csharp/MiProyecto/obj/Debug/net8.0/MiProyecto.AssemblyInfoInputs.cache
+/workspaces/first-csharp/MiProyecto/obj/Debug/net8.0/MiProyecto.AssemblyInfo.cs
+/workspaces/first-csharp/MiProyecto/obj/Debug/net8.0/MiProyecto.csproj.CoreCompileInputs.cache
+/workspaces/first-csharp/MiProyecto/obj/Debug/net8.0/MiProyecto.sourcelink.json
+/workspaces/first-csharp/MiProyecto/obj/Debug/net8.0/MiProyecto.dll
+/workspaces/first-csharp/MiProyecto/obj/Debug/net8.0/refint/MiProyecto.dll
+/workspaces/first-csharp/MiProyecto/obj/Debug/net8.0/MiProyecto.pdb
+/workspaces/first-csharp/MiProyecto/obj/Debug/net8.0/MiProyecto.genruntimeconfig.cache
+/workspaces/first-csharp/MiProyecto/obj/Debug/net8.0/ref/MiProyecto.dll
